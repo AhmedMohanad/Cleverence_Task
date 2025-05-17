@@ -1,0 +1,2 @@
+2025-05-01 10:22:33 | INFO | System started.
+2025-05-01 10:22:34 | INFO | User logged in.
